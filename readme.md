@@ -16,7 +16,7 @@ A modern and user-friendly calculator application built with HTML, CSS, and Java
 To get started with this calculator app, simply clone the repository and open the `index.html` file in your preferred web browser.
 
 ```sh
-git clone https://github.com/yourusername/cool-calculator-app.git
+git clone https://github.com/HopSoft-Tech/cool-calculator-app.git
 cd cool-calculator-app
 open index.html
 ```
